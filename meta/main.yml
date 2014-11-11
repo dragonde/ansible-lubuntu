@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: dragonde 
+  description: LUbuntu.
+  company: "Dragonde"
+  license: "license (Apache)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+    - system
